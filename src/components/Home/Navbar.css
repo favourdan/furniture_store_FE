@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@900&family=Jost:wght@200;300;400;500;600&display=swap');
+
+nav{
+    /* gap: 1rem; */
+    background-color: #ffffff;
+    padding: 0 4rem;
+    height: 6rem;
+    width: 100%;
+    /* justify-content: space-evenly; */
+  }
+  
+  nav a{
+    font-size: 0.9rem;
+    
+  }
+  
+  ul li{
+    list-style: none;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    /* color: black; */
+  }
+  
+  ul{
+    gap: 1.5rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  
+ .burger{
+    color: black;
+    margin-right: 8.5rem;
+    font-size: 2rem;
+  }
+
+  .logo{
+    font-family: 'Heebo', sans-serif;
+    font-size: 2rem;
+    margin-top: 10px;
+    letter-spacing: 2px;
+  }
+  
+
+  
+  /* .bx-menu{
+    font-size: 3rem;
+    color: rgb(34, 31, 31);
+  } */
